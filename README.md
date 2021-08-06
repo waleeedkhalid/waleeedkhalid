@@ -21,6 +21,7 @@ Languages and Tools:<br>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"                           width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"                            width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"                            width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"                            width="30" height="30" />
 </p>
 
 <br>
