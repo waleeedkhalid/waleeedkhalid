@@ -2,7 +2,7 @@ Hi there, I'm KATO 👋
 
 
 ✨ Contact <br>
-- Discord  `Kato#0004`
+- Discord  `Kato#7667`
 
 ![](https://komarev.com/ghpvc/?username=VamL4)
 
