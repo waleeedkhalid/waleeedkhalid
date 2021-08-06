@@ -19,10 +19,8 @@ Languages and Tools:<br>
 
 <p float="left">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"                           width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"                           width="30" height="30" />
-   <img src="https://i.postimg.cc/3rptZYPw/Java-Script-logo.png"                        width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"                     width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"                         width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"                            width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"                            width="30" height="30" />
 </p>
 
 <br>
