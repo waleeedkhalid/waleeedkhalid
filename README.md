@@ -1,16 +1,32 @@
-### Hi there 👋
+Hi there, I'm KATO 👋
 
-<!--
-**VamL4/VamL4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨ Contact <br>
+- Discord  `Kato#0004`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=VamL4)
+
+<br>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=VamL4&count_private=true&show_icons=true&theme=dracula&hide=stars)
+
+---
+
+
+Languages and Tools:<br>
+
+
+<p float="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"                           width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"                           width="30" height="30" />
+   <img src="https://i.postimg.cc/3rptZYPw/Java-Script-logo.png"                        width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"                     width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"                         width="30" height="30" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://i.ibb.co/rmTY70c/94fdea92b279464aa124110e8cf307b3.gif" />
+</p>
