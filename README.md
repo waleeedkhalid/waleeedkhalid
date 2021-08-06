@@ -20,7 +20,7 @@ Languages and Tools:<br>
 <p float="left">
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"                           width="30" height="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"                            width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"                            width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"                            width="30" height="30" style="margin-top: 5px;"/>
 </p>
 
 <br>
