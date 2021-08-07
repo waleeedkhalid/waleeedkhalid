@@ -1,6 +1,6 @@
 Hi there, I'm KATO 👋
 
-https://discord.com/users/324261688062771200
+<img src="https://discord.com/users/324261688062771200" />
 
 ✨ Contact <br>
 - Discord  `Kato#7667`
