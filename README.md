@@ -1,7 +1,7 @@
-Hi there, I'm Waleeed 👋
+Hi there, I'm Waleed 👋
 
 ✨ Contact <br>
-- Discord  `waleeeed#7667`
+- Discord  `waleeed#7667`
 ---
 Languages and Tools:<br>
 
