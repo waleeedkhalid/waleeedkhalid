@@ -1,7 +1,7 @@
 Hi there, I'm Waleeed 👋
 
-<!-- [<img target="_blank" src="https://discord.c99.nl/widget/theme-4/324261688062771200.png">](https://discord.com/users/324261688062771200)
- -->
+[<img target="_blank" src="https://discord.c99.nl/widget/theme-4/324261688062771200.png">](https://discord.com/users/324261688062771200)
+
 ✨ Contact <br>
 - Discord  `waleeeed#7667`
 ---
