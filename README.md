@@ -1,16 +1,16 @@
-Hi there, I'm KATO 👋
+Hi there, I'm Waleeed 👋
 
 <!-- [<img target="_blank" src="https://discord.c99.nl/widget/theme-4/324261688062771200.png">](https://discord.com/users/324261688062771200)
  -->
 ✨ Contact <br>
-- Discord  `Kato#7667`
+- Discord  `waleeeed#7667`
 
-![](https://komarev.com/ghpvc/?username=VamL4)
+![](https://komarev.com/ghpvc/?username=waleeedkhalid)
 
 <br>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=VamL4&count_private=true&show_icons=true&theme=dracula&hide=stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=waleeedkhalid&count_private=true&show_icons=true&theme=dracula&hide=stars)
 
 ---
 
@@ -26,7 +26,3 @@ Languages and Tools:<br>
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://i.ibb.co/rmTY70c/94fdea92b279464aa124110e8cf307b3.gif" />
-</p>
