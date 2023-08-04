@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Waleed&fontAlign=25&fontAlignY=30&color=gradient" height="300"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Waleed&fontAlign=50&fontAlignY=40&color=gradient" height="300"/>
 <br>
 Hi there, I'm Waleed 👋
 
