@@ -9,9 +9,10 @@ interested :<br>
 
 
 <p float="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="30" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" width="30" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="50" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="50" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="50" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" width="50" height="30" />
   
 </p>
